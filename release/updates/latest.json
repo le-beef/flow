@@ -1,0 +1,13 @@
+﻿{
+    "product":  "AtendeFlow",
+    "version":  "3.19.0",
+    "publishedAt":  "2026-07-22T07:08:19.5968902Z",
+    "required":  false,
+    "minimumVersion":  "3.18.0",
+    "packageUrl":  "https://flow-54846.web.app/AtendeFlow-3.19.0-Atualizacao-2026-07-22_04-08-17.zip",
+    "sha256":  "e2915be66fcc07ddf5042f40173006a1e936c7b1f61be50864944e85f8f458d7",
+    "size":  677917,
+    "notes":  [
+                  "Atualizacoes automaticas seguras,Verificacao SHA-256, backup e restauracao em caso de falha,Nova area de atualizacoes em Configuracoes \u003e Sistema"
+              ]
+}

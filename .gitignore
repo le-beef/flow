@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+coverage
+*.log
+*.tsbuildinfo
+backups/
+.updates/
+.atendeflow.pid
+release/updates/*.zip
+release/*.zip
+output/
+tmp/
+*.pid
+.DS_Store
